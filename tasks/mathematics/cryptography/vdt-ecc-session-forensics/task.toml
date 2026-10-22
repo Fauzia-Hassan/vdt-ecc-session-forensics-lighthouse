@@ -1,0 +1,11 @@
+[task]
+name = "vdt-ecc-session-forensics"
+domain = "Mathematics"
+subdomain = "Cryptography"
+version = "1.0.0"
+
+[agent]
+timeout_sec = 1200
+
+[environment]
+workdir = "/app"
